@@ -1,5 +1,4 @@
 # GOODMATCH
-this is an assessment submission for Devrico
 
 ___
 

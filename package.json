@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "goodmatchzimvo",
+  "description": "this is an assessment submission for Devrico",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZimvoMatwa/goodmatchzimvo.git"
+  },
+  "author": "Zimvo Matwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZimvoMatwa/goodmatchzimvo/issues"
+  },
+  "homepage": "https://github.com/ZimvoMatwa/goodmatchzimvo#readme"
+}
